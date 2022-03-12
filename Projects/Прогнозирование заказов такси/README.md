@@ -10,7 +10,7 @@
 
 - В данном проекте метрикой качества является RMSE
 
-![WhatsApp%20Image%202022-03-12%20at%2013.25.57.jpeg](attachment:WhatsApp%20Image%202022-03-12%20at%2013.25.57.jpeg)
+![](https://github.com/HorodeckiyMykhailo/Yandex-Praktikum-Projects/blob/main/Projects/images/WhatsApp%20Image%202022-03-12%20at%2013.25.57.jpeg)
 
 ## Библиотеки
 
