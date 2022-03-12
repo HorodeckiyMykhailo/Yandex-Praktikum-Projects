@@ -27,7 +27,7 @@
 
 # Расчёт эффективности
 
-- Эффективность обогащения рассчитывается по формуле
+Эффективность обогащения рассчитывается по формуле
 
 ![](https://github.com/HorodeckiyMykhailo/Yandex-Praktikum-Projects/blob/main/Projects/images/WhatsApp%20Image%202022-03-12%20at%2012.01.52.jpeg)
 
@@ -35,7 +35,7 @@
    - F — доля золота в сырье/концентрате до флотации/очистки;
    - T — доля золота в отвальных хвостах после флотации/очистки.
  
-- Для прогноза коэффициента нужно найти долю золота в концентратах и хвостах. Причём важен не только финальный продукт, но и черновой концентрат.
+Для прогноза коэффициента нужно найти долю золота в концентратах и хвостах. Причём важен не только финальный продукт, но и черновой концентрат.
 
 # Метрика качества
 
@@ -44,7 +44,7 @@
 
 ![](https://github.com/HorodeckiyMykhailo/Yandex-Praktikum-Projects/blob/main/Projects/images/WhatsApp%20Image%202022-03-12%20at%2012.02.13.jpeg)
 
-- Обозначения:
+Обозначения:
 
 ![](https://github.com/HorodeckiyMykhailo/Yandex-Praktikum-Projects/blob/main/Projects/images/WhatsApp%20Image%202022-03-12%20at%2012.15.09.jpeg)
 
@@ -60,7 +60,7 @@
 
 ![](https://github.com/HorodeckiyMykhailo/Yandex-Praktikum-Projects/blob/main/Projects/images/WhatsApp%20Image%202022-03-12%20at%2012.15.51.jpeg)
 
-- Суммирование по всем объектам выборки (i меняется от 1 до N).
+Суммирование по всем объектам выборки (i меняется от 1 до N).
 
 
 - Нужно спрогнозировать сразу две величины:
