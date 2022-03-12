@@ -60,12 +60,12 @@
 
 ![](https://github.com/HorodeckiyMykhailo/Yandex-Praktikum-Projects/blob/main/Projects/images/WhatsApp%20Image%202022-03-12%20at%2012.15.51.jpeg)
 
-Суммирование по всем объектам выборки (i меняется от 1 до N).
+- Суммирование по всем объектам выборки (i меняется от 1 до N).
 
 
-- Нужно спрогнозировать сразу две величины:
+Нужно спрогнозировать сразу две величины:
  - эффективность обогащения чернового концентрата rougher.output.recovery;
  - эффективность обогащения финального концентрата final.output.recovery.
-- Итоговая метрика складывается из двух величин:
+Итоговая метрика складывается из двух величин:
 
 ![](https://github.com/HorodeckiyMykhailo/Yandex-Praktikum-Projects/blob/main/Projects/images/WhatsApp%20Image%202022-03-12%20at%2012.34.53.jpeg)
