@@ -42,23 +42,23 @@
 - Для решения задачи понадобится метрика качества — sMAPE (англ. Symmetric Mean Absolute Percentage Error, «симметричное среднее абсолютное процентное отклонение»).
 - sMAPE выражается не в абсолютных величинах, а в относительных.Она одинаково учитывает масштаб и целевого признака, и предсказания.
 
-![WhatsApp%20Image%202022-03-12%20at%2012.02.13.jpeg](attachment:WhatsApp%20Image%202022-03-12%20at%2012.02.13.jpeg)
+![](https://github.com/HorodeckiyMykhailo/Yandex-Praktikum-Projects/blob/main/Projects/images/WhatsApp%20Image%202022-03-12%20at%2012.02.13.jpeg)
 
 - Обозначения:
 
-![WhatsApp%20Image%202022-03-12%20at%2012.15.09.jpeg](attachment:WhatsApp%20Image%202022-03-12%20at%2012.15.09.jpeg)
+![](https://github.com/HorodeckiyMykhailo/Yandex-Praktikum-Projects/blob/main/Projects/images/WhatsApp%20Image%202022-03-12%20at%2012.15.09.jpeg)
 
 - Значение целевого признака для объекта с порядковым номером i в выборке, на которой измеряется качество.
 
-![WhatsApp%20Image%202022-03-12%20at%2012.15.23.jpeg](attachment:WhatsApp%20Image%202022-03-12%20at%2012.15.23.jpeg)
+![](https://github.com/HorodeckiyMykhailo/Yandex-Praktikum-Projects/blob/main/Projects/images/WhatsApp%20Image%202022-03-12%20at%2012.15.23.jpeg)
 
 - Значение предсказания для объекта с порядковым номером i, например, в тестовой выборке.
 
-![WhatsApp%20Image%202022-03-12%20at%2012.15.40.jpeg](attachment:WhatsApp%20Image%202022-03-12%20at%2012.15.40.jpeg)
+![](https://github.com/HorodeckiyMykhailo/Yandex-Praktikum-Projects/blob/main/Projects/images/WhatsApp%20Image%202022-03-12%20at%2012.15.40.jpeg)
 
 - Количество объектов в выборке.
 
-![WhatsApp%20Image%202022-03-12%20at%2012.15.51.jpeg](attachment:WhatsApp%20Image%202022-03-12%20at%2012.15.51.jpeg)
+![](https://github.com/HorodeckiyMykhailo/Yandex-Praktikum-Projects/blob/main/Projects/images/WhatsApp%20Image%202022-03-12%20at%2012.15.51.jpeg)
 
 - Суммирование по всем объектам выборки (i меняется от 1 до N).
 
@@ -67,4 +67,4 @@
  - эффективность обогащения финального концентрата final.output.recovery.
 - Итоговая метрика складывается из двух величин:
 
-![WhatsApp%20Image%202022-03-12%20at%2012.34.53.jpeg](attachment:WhatsApp%20Image%202022-03-12%20at%2012.34.53.jpeg)
+![](https://github.com/HorodeckiyMykhailo/Yandex-Praktikum-Projects/blob/main/Projects/images/WhatsApp%20Image%202022-03-12%20at%2012.34.53.jpeg)
