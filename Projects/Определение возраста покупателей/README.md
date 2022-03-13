@@ -12,7 +12,7 @@
 
 ## Метрика качества
 
-![WhatsApp%20Image%202022-03-13%20at%2020.06.09.jpeg](attachment:WhatsApp%20Image%202022-03-13%20at%2020.06.09.jpeg)
+![](https://github.com/HorodeckiyMykhailo/Yandex-Praktikum-Projects/blob/main/Projects/images/WhatsApp%20Image%202022-03-13%20at%2020.06.09.jpeg)
 
 ## Библиотеки
 
